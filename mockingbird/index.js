@@ -151,7 +151,7 @@ vm = new Vue({
       Unknown: [],
     },
     events: {
-      Head: [],
+      Et: [],
       ChangePos: [],
       Chat: [],
       Hew: [],
